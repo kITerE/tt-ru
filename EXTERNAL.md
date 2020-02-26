@@ -4,7 +4,7 @@
 
 | Maintainer                        | Link               |
 | --------------------------------- | ------------------ |
-| [mark@szy.io](mailto:mark@szy.io) | https://szy.io/tt/ |
+| [toast@toast.cafe](mailto:toast@toast.cafe) | https://szy.io/tt/ |
 
 ## Similarly-Spirited Projects
 
