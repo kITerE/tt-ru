@@ -4,7 +4,7 @@
 
 | Maintainer                        | Link               |
 | --------------------------------- | ------------------ |
-| [toast@toast.cafe](mailto:toast@toast.cafe) | https://szy.io/tt/ |
+| [toast@toast.cafe](mailto:toast@toast.cafe) |https://trivial.technology/ |
 
 ## Similarly-Spirited Projects
 
