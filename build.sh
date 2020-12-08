@@ -7,4 +7,4 @@ esac
 export PATH="$PATH:$d/bin"
 
 mkdir -p dst
-ssg5 src dst "$@"
+ssg5 src dst "trivial technology" "$@"
