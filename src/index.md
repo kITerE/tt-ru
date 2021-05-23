@@ -1,11 +1,11 @@
-# Trivial Technologies
+# Тривиальные технологии
 
-Trivial Technology (TT) is a new way of doing FOSS, whose goal is to maximally empower the individual, by providing a stepping stone for whatever they may wish to build.
+Тривиальные Технологии (ТТ) — это новый способ производства СПО, цель которого — максимально расширить возможности человека, предоставив средства для достижения любой цели.
 
-TT is Trivial. A beginner should be able to completely understand it in 2 days. A professional should grasp it in a rainy afternoon. It is not meant to be a plug-and-play black box that one does not open lest they contact some ancient curse.
+ТТ тривиальны. Любой новичок должен быть в состоянии полностью понять их за два дня. Профессионал должен быть в состоянии разобраться за чашкой чаю дождливым вечером. Они не должны представлять из себя чёрный ящик, вскрытие которого чревато навлечением на себя древнего проклятия.
 
-TT is malleable. There are visible hooks for adding features and open points where one can extend functionality. It is not a feature pinata where one has to dance around implementation details.
+ТТ податливы. Есть очевидные места для добавления функций, и точки расширения функциональности. Неикакой необходимости танцевать с бубном вокруг особенностей реализации ради получения нужной функциональности.
 
-TT is open. As much as possible, TT is offered with no strings attached and we mean it. It's licenced under the most permissive licences we can find (0BSD, Unlicence, CC0) and even that we see as a compromise. Nobody will frown at you for forking TT, there's nobody to ask for permission, there's no original author that has to be forever mentioned.
+ТТ открыты. Настолько, насколько возможно. ТТ предлагаются без каких-либо условий. Они лицензируются под максимально пермиссивными лицензиями, которые мы можем найти (0BSD, Unlicence, CC0) и даже это представляется нам компромиссом. Никто не осудит вас за форк ТТ, не у кого спрашивать разрешения, нет никакого оригинального автора, которого необходимо вечно упоминать.
 
-TT is your own. To find out more about how this came to be and what are the larger principles behind this movement, be sure to read our manifesto.
+ТТ принадлежат вам. Чтоб выяснить, откуда есть пошли ТТ, и какие принципы лежат в основе движения, прочитайте Манифест.

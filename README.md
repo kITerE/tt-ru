@@ -1,3 +1,7 @@
+# Тривиальные Технологии 
+
+Русский пеервод. Распространение, зеркалирвоание и модификации приветствуются.
+
 # Trivial Technology
 
 This is the repository for the website of a Trivial Technology mirror.
