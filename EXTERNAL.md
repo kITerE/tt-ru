@@ -6,6 +6,7 @@
 | --------------------------------------------- | --------------------- |
 | [mark@szy.io](mailto:mark@szy.io)             | https://szy.io/tt/    |
 | [gabe@erisian.tech](mailto:gabe@erisian.tech) | https://erisian.tech/ |
+| [toast@toast.cafe](mailto:toast@toast.cafe) |https://trivial.technology/ |
 
 ## Similarly-Spirited Projects
 
